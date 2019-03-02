@@ -1,0 +1,19 @@
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+p,
+li {
+  line-height: 30px;
+  text-align: justify;
+}
+
+div {
+  padding: 15px 15px 15px 15px;
+}
+
+.info-card {
+  border: 1px black solid;
+  width: 250px;
+}
